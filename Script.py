@@ -51,7 +51,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/GX_143>🅞︎Ꭾᴇ𝚁𝙰ƬᎧᏒ</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/VJ_Bot_Disscussion>𝐋𝐃𝐂 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/LDC_Movie_Search>𝐋𝐃𝐂 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/LDC_OFFICIAL>𝐋𝐃𝐂 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
