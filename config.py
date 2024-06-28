@@ -75,7 +75,7 @@ PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 # File Stream Config
 class Var(object):
-    MULTI_CLIENT = True
+    MULTI_CLIENT = False
     name = str(getenv('name', 'LDC_DRAMA2_BOT'))
     SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
     WORKERS = int(getenv('WORKERS', '4'))
