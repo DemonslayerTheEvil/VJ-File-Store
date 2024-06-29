@@ -13,7 +13,7 @@ from config import API_ID, API_HASH, ADMINS, DB_NAME
 from config import DB_URI as MONGO_URL
 
 mongo_client = MongoClient(MONGO_URL)
-mongo_db = mongo_client["cloned_aashukr5578"]
+mongo_db = mongo_client["cloned_Aaki8490"]
 mongo_collection = mongo_db[DB_NAME]
 
 @Client.on_message(filters.command("clone") & filters.private)
