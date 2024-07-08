@@ -15,7 +15,7 @@ class script(object):
 
 sɪᴢᴇ ⚙️: {file_size}</a></b>"""
 
-<b>⏤͟͞𝗝⌡𝗼𝗶𝗻 [🇺𝗣𝗗𝗔𝗧𝗘 🇨𝗛𝗔𝗡𝗡𝗘𝗟](https://t.me/LDC_OFFICIAL)</b> 
+<b>𝗝⌡𝗼𝗶𝗻 [🇺𝗣𝗗𝗔𝗧𝗘 🇨𝗛𝗔𝗡𝗡𝗘𝗟](https://t.me/LDC_OFFICIAL)</b> 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
