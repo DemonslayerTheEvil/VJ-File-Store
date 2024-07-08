@@ -11,11 +11,11 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b><a href="https://t.me/LDC_OFFICIAL">📂 ғɪʟᴇɴᴀᴍᴇ : {file_caption}
+    CAPTION = <b><a href="https://t.me/LDC_OFFICIAL">📂 ғɪʟᴇɴᴀᴍᴇ : {file_caption}
 
-sɪᴢᴇ ⚙️: {file_size}</a></b>"""
+"""<b>sɪᴢᴇ ⚙️: {file_size}
 
-"""<b>Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/LDC_OFFICIAL)</b>"""
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/LDC_OFFICIAL)</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
